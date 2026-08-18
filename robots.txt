@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-x4dix4.keitaro-tech-rtb.online/sitemap.xml
